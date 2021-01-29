@@ -12,6 +12,7 @@ dependencies:
     - h5py          # Wrapper for HDF5
     - ipython       # IPython interpreter and tools
     - jupyter       # Jupyter federation architecture
+    - jupyterlab
     - matplotlib    # 2D plotting library
     - ncar-jobqueue
     - nc-time-axis
